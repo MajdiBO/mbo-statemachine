@@ -1,2 +1,2 @@
-rootProject.name = "statemachine"
+rootProject.name = "mbo-statemachine"
 
